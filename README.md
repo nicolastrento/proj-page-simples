@@ -8,7 +8,7 @@ Este projeto foi um desafio do curso DevClub - FullStack
 
 Este foi o resultado:
 
-<img width="100%" src="assets/img-projeto_simples.png">
+<img width="100%" src="img/img-projeto_simples.png">
 
 <br/>
 
